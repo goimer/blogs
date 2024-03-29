@@ -1,0 +1,18 @@
+languageCode = "zh-CN"
+languageName = "简体中文"
+languageDirection = "ltr"
+weight = 2
+
+copyright = "&copy; 2024"
+
+[params.author]
+  name = "Calisto"
+  image = "img/author.jpg"
+  headline = ""
+  bio = "一些异想天开的疯狂计算机文学。 :dog:"
+  links = [
+    { x-twitter = "https://twitter.com/" },
+    { facebook = "https://facebook.com/" },
+    { linkedin = "https://linkedin.com/" },
+    { youtube = "https://youtube.com/" },
+  ]
