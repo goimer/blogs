@@ -1,6 +1,6 @@
 ---
 title: "心怀善意，勇往直前! :tada:"
-description: "简单感悟."
+description: "简单感悟"
 ---
 
 {{< lead >}}
